@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![soonyubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=highcontrast)
+![soonyubi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soonyubi&show_icons=true&theme=highcontrast)
 <!--
 **soonyubi/soonyubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
